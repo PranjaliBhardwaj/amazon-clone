@@ -1,2 +1,2 @@
 # amazon-clone
-HTML CSS project
+Drafting an Amazon Clone with pure HTML and CSS. 
